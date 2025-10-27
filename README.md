@@ -1,4 +1,4 @@
-# College Management System
+<img width="1919" height="1078" alt="Screenshot 2025-10-27 094947" src="https://github.com/user-attachments/assets/95ec24cf-4600-459c-8b81-aef2e5c285bf" /># College Management System
 
 A comprehensive web-based College Management System built with ASP.NET Core MVC, Entity Framework Core, and SQL Server.
 
@@ -75,12 +75,15 @@ A comprehensive web-based College Management System built with ASP.NET Core MVC,
 
 6. **Access the Application**
    - Open browser and navigate to `https://localhost:
+7.NOTE:
+create a mvc using dotnet new mvc (project name) and just copy the required files form the repo to the project
 
 ## Default Login Credentials
 
 ### Admin Account
 - **Email**: `admin@college.com`
 - **Password**: `Admin@123`
+
 
 ## Project Structure
 
@@ -208,3 +211,11 @@ For support and questions, please contact the development team or create an issu
 ---
 
 **Note**: This is an educational project designed for learning ASP.NET Core MVC development.
+OUTPUT:
+<img width="1919" height="1078" alt="Screenshot 2025-10-27 094947" src="https://github.com/user-attachments/assets/19b0982f-6053-47fb-881a-9c45de1baad0" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-27 095001" src="https://github.com/user-attachments/assets/bbfb41b8-ab18-4751-b515-6ae4d0cb5153" />
+<img width="1919" height="1078" alt="Screenshot 2025-10-27 095011" src="https://github.com/user-attachments/assets/1b573e80-e06c-4c57-ba23-f5e952767fcc" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-27 095028" src="https://github.com/user-attachments/assets/df744683-4a99-4922-981e-e3e8eb6dc7f0" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-27 095042" src="https://github.com/user-attachments/assets/1044850a-8fb2-4895-adb1-b8d974f9ed3e" />
+<img width="1915" height="1078" alt="Screenshot 2025-10-27 095101" src="https://github.com/user-attachments/assets/4755fd61-b422-4831-a035-ba2d37bc594b" />
+
