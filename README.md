@@ -1,4 +1,4 @@
-<img width="1919" height="1078" alt="Screenshot 2025-10-27 094947" src="https://github.com/user-attachments/assets/95ec24cf-4600-459c-8b81-aef2e5c285bf" /># College Management System
+# College Management System
 
 A comprehensive web-based College Management System built with ASP.NET Core MVC, Entity Framework Core, and SQL Server.
 
